@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="DynamisApp:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DynamisApp_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DynamisApp/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="DynamisApp:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
